@@ -17,4 +17,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS" width="50" height="50" />
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowburn-404)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowburn-404&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
