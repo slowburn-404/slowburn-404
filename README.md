@@ -1,8 +1,7 @@
 # Hi there! <img src="https://github.com/slowburn-404/slowburn-404/blob/main/hello-android.gif" alt="Android" width="48" height="48">
-## I'm Boris Ochieng
-### <img style="align-items: center;" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" width="24" height="24" /> <p>Junior Android Developer</p>
+### Boris Ochieng here, Software Engineer(Android).
 - Always eager to learn and grow as a developer. Passionate about creating high-quality mobile apps.
-- Currently learning JetPack Compose
+- Currently learning JetPack Compose.
 ---
 🧰 Toolbox
 <br><br>
